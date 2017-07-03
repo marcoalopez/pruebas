@@ -82,7 +82,7 @@ h6 {
 
 
 h1 {
-  font-size:22px;
+  font-size:27px;
   line-height:30px;
   /*padding-top: 5px;*/
   padding-bottom:10px;
@@ -222,7 +222,7 @@ code {
 
 .content-node.cover .content .article-abstract {
   padding-top: 40px;
-  font-size: 24px;
+  font-size: 20px;
 }
 
 /* Table of Contents */
